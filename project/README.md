@@ -21,10 +21,9 @@ cd FDD-WE5-public/project
 - **`notebook/compliance_rag_project.ipynb`** — the student notebook (exercise stubs + tests).
   Built for **Google Colab**; works in local Jupyter too.
 
-  Open it in Colab straight from GitHub
-  ([File → Open notebook → GitHub](https://colab.research.google.com/github/eth-fdd-fs26/FDD-WE5-public/blob/main/project/notebook/compliance_rag_project.ipynb)),
-  Open it in Personal Drive Copy Colab straight from GitHub
-  ([File → Open notebook → GitHub](https://colab.research.google.com/drive/1JIq4GrkXUkhh6PIMYBg8MS3jTKqj01P7)),
+  - Open it in Colab straight from GitHub: ([File → Open notebook → GitHub](https://colab.research.google.com/github/eth-fdd-fs26/FDD-WE5-public/blob/main/project/notebook/compliance_rag_project.ipynb))
+  - Open it in Personal Drive Copy Colab straight from GitHub: ([File → Open notebook → GitHub](https://colab.research.google.com/drive/1JIq4GrkXUkhh6PIMYBg8MS3jTKqj01P7))
+  
   then run the first cell. The repo is **public**, so the clone needs no token — the setup cell
   clones it, installs the dependencies, and `cd`s into this `project/` folder for you.
 
